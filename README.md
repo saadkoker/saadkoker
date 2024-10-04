@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
 
-- 🔭 I’m currently working on **RadicalBot**
+- 🔭 I’m currently working on **Tacticl: For Sales People**
 
-- 🌱 I’m currently learning **Tensorflow, Seaborn**
+- 🌱 I’m currently learning **Swift, TensorFlow, JUCE Framework**
 
 - 👨‍💻 All of my projects are available at [saadkoker.com](saadkoker.com)
 
